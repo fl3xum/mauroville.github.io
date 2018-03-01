@@ -8,7 +8,7 @@
 	"Por la razón o la chaucha",
 	"안녕하세요 Annyeonghaseyo",
 	"Quiero ir a Japón",
-	"Mamma Mia",
+	"Pipo muere, NO!",
 	"Make Mauro Great Again"
 	];
 
