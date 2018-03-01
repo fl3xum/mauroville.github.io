@@ -5,7 +5,7 @@
 	"Me gusta el anime :v", 
 	"vivan los videogames",
 	"Dance for life",
-	"Por la razón o la chaucha",
+	"OH NOOOOOOO",
 	"안녕하세요 Annyeonghaseyo",
 	"Quiero ir a Japón",
 	"Pipo muere, NO!",
